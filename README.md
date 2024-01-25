@@ -1,10 +1,16 @@
-### 👋 Hello world!
+### 👋 Hello, world!
 
-My name is **Oussama EL GHANNAMI**. I'm a Project Manager based in 🇲🇦 Morocco, currently transitioning to Software Engineering.
+<br>
 
-I'm passionate about programming, technology, innovation, music, and a few other things...
+My name is **Oussama EL GHANNAMI**.
 
-#### 🧰 Tech stack*
+I'm a Project Manager based in 🇲🇦 Morocco, currently transitioning to Software Engineering.
+
+I'm passionate about programming, technology, innovation, music, and [a few other things...](https://iamoeg.github.io/)
+
+<br>
+
+#### 🧰 Tech stack\*
 
 | **Programming Languages** | ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=for-the-badge&logo=python&logoColor=FFF)  ![Java](https://img.shields.io/static/v1?label=&message=Java&color=437291&style=for-the-badge&logo=openjdk&logoColor=FFF)  ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=for-the-badge&logo=javascript&logoColor=000) |
 | :---- | :---- |
@@ -13,6 +19,8 @@ I'm passionate about programming, technology, innovation, music, and a few other
 | **DevOps & Infrastructure** | ![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&style=for-the-badge&logo=linux&logoColor=000)  ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&style=for-the-badge&logo=docker&logoColor=FFF)  ![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=for-the-badge&logo=git&logoColor=FFF) |
 
 \*Note that this list might not be up-to-date as I'm constantly learning new tools and technologies.
+
+<br>
 
 #### 💼 Services
 
@@ -23,6 +31,8 @@ As a project management professional with years of experience managing highly te
 - Innovation & Strategy
 
 So, if you need assistance on your projects, contact me and I'll be glad to help!
+
+<br>
 
 #### 📫 Contact
 
